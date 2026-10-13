@@ -21,4 +21,4 @@ Kali Linux · Burp Suite · Wireshark · FTK Imager · Proxmark3 · Docker · VM
 - Learning on TryHackMe and Hack The Box
 - Working towards ISC2 Certified in Cybersecurity (CC)
 
-📫 vikramr11157@gmail.com
+📫 vikramvkumar.work@gmail.com · [LinkedIn](https://www.linkedin.com/in/vikram-vijaykumar)
